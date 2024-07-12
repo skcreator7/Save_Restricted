@@ -4,14 +4,14 @@
 
 ---
 
-### Use Login Branch Here - [TechVJ-Login](https://github.com/VJBots/VJ-Save-Restricted-Content/tree/TechVJ-Login)
+### Use Login Branch Here - [Sk-Login](https://github.com/SkBots/VJ-Save-Restricted-Content/tree/Sk-Login)
 
 ## Variables
 
 - `HASH` Your API Hash from my.telegram.org
 - `ID` Your API ID from my.telegram.org
 - `TOKEN` Your bot token from [BotFather](https://telegram.me/BotFather)
-- `STRING` Your pyrogram session string, you can get it from [VJ String Session Generator Bot](https://telegram.me/VJStringSessionBot)
+- `STRING` Your pyrogram session string, you can get it from [Sk String Session Generator Bot]()
 
 ---
 
@@ -51,5 +51,5 @@ _note that space in between doesn't matter_
 
 ### Credits
 
-- [BipinKrish](https://github.com/bipinkrish)
-- [Tech VJ](https://telegram.dog/Kingvj01)
+- [Sk Creator 7](https://github.com/skcreator7)
+- [Sk Creator 7](https://telegram.dog/SKadminrobot)
