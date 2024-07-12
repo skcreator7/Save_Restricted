@@ -4,7 +4,7 @@
 
 ---
 
-<b>Watch Video Tutorial - [Click Here](https://youtu.be/CXw4NByRAac)</b>
+<b>Watch Video Tutorial - [Click Here](https://youtu.be/@skcreator7)</b>
 
 ## Variables
 
@@ -51,5 +51,5 @@ _note that space in between doesn't matter_
 
 ### Credits
 
-- <b>Thanks To [BipinKrish](https://github.com/bipinkrish) For Base Repo
-- Thanks To [Tech VJ](https://telegram.dog/Kingvj01) For Modify & Added Login Feature.</b>
+- <b>Thanks To [sk](https://github.com/Skcreator7) For Base Repo
+- Thanks To [Sk Creator 7](https://telegram.dog/SKadminrobot) For Modify & Added Login Feature.</b>
