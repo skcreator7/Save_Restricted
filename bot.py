@@ -1,11 +1,11 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @skcreator7
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@skcreator7
+# Ask Doubt on telegram @SKadminrobot
 
 from main import Bot
 
 Bot().run()
 
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @skcreator7
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@skcreator7
+# Ask Doubt on telegram @SKadminrobot
