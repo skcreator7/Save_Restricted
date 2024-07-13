@@ -1,6 +1,6 @@
 pyrofork
 tgcrypto
-pymongo[srv]==3.12.3
+pymongo
 Flask==1.1.2
 gunicorn==20.1.0
 Jinja2==3.0.3
